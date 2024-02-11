@@ -1,0 +1,13 @@
+.piccontainer {
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+  }
+                 
+  .tekst {
+    right: 50%;
+    width:500px;
+    position: absolute;
+    display: inline-block;
+  }
+  

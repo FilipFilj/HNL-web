@@ -1,0 +1,45 @@
+.poredak {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #333;
+    color: #fff;
+  }
+
+  img {
+    max-width: 50px;
+    max-height: 50px;
+  }
+  
+  tr:first-child {
+      background-color: rgba(0, 110, 255, 0.75); 
+      background-repeat: no-repeat;
+      background-position: 2% 50%
+      }
+  
+      tr:nth-child(2) {
+      background-color: rgba(0, 255, 0, 0.75); 
+      background-repeat: no-repeat;
+      background-position: 2% 50%
+      }
+  
+      tr:nth-child(3) {
+      background-color: rgba(0, 255, 0, 0.75); 
+      background-repeat: no-repeat;
+      background-position: 2% 50%
+      }
+  
+      tr:last-child {
+      background-color: rgba(255, 0, 0, 0.75); 
+      background-repeat: no-repeat;
+      background-position: 2% 50%
+      }

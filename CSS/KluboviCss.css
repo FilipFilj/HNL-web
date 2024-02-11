@@ -1,0 +1,47 @@
+.myh3{
+    color:rgb(112, 111, 134);
+    text-shadow: -2px -2px 2px black, 2px -2px 0 black, -2px 2px 0 black;
+    text-decoration: underline;
+}
+
+.Div {
+    margin: auto;
+    width: 50%;
+    text-align: left;
+}
+
+.myimage{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+
+.myimage2{
+    width: 80px;
+    height: 100px;
+    float: right;
+}
+
+.myimage:hover{
+    transform: scale(1.2);
+}
+
+
+.myimage2:hover{
+    transform: scale(1.2);
+}
+
+ol {
+    border: 2px solid black;
+    width: 450px;
+    padding: 5px;
+   }
+   
+li {
+    list-style-type: circle;
+    List-style-position: inside;
+    padding: 3px;
+    padding-left: 34px;
+    margin-bottom: 5px;
+}
